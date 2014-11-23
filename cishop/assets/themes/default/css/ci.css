@@ -1,0 +1,119 @@
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+
+body
+{
+	font-family: 'Roboto', sans-serif;
+	/*background: #fff;*/
+}
+
+.content
+{
+	width:80%;
+	margin:0 auto;
+
+}
+code {			
+	font-family: 'Roboto', sans-serif;	
+	color: black;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+h1
+{
+	font-size:3.5em;
+	color:#F04155;	
+	font-weight:300;
+}
+h2
+{
+	font-size:2em;	
+}
+
+ul{
+	float:right;
+
+}
+.head ul li{
+    background: green;              
+	display: inline;
+	padding:10px;
+	box-shadow:0px 0px 5px #A5A5A5;
+    -webkit-box-shadow:0px 0px 5px #A5A5A5;
+    -moz-box-shadow:0px 0px 5px #A5A5A5;
+    -o-box-shadow:0px 0px 5px #A5A5A5;
+	border-radius: 1em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.54em;
+	-o-border-radius: 0.5em;
+	margin-left:5px;
+}
+.head a{
+	text-decoration: none;
+	color:white;
+	font-size: 1em;
+}
+.head a:hover
+{
+	text-decoration: underline;		
+}
+.customer_desc{
+    
+    box-shadow:0px 0px 5px #A5A5A5;
+    -webkit-box-shadow:0px 0px 5px #A5A5A5;
+    -moz-box-shadow:0px 0px 5px #A5A5A5;
+    -o-box-shadow:0px 0px 5px #A5A5A5;
+	border-radius: 1em;
+	-webkit-border-radius: 1em;
+	-moz-border-radius: 1em;
+	-o-border-radius: 1em;
+	margin-bottom:2em;
+}
+
+/*
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+
+
+#body{
+	margin: 0 15px 0 15px;
+}
+
+p.footer{
+	text-align: right;
+	font-size: 11px;
+	border-top: 1px solid #D0D0D0;
+	line-height: 32px;
+	padding: 0 10px 0 10px;
+	margin: 20px 0 0 0;
+}
+
+#container{
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	-webkit-box-shadow: 0 0 8px #D0D0D0;
+} */
